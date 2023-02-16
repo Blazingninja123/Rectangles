@@ -1,0 +1,15 @@
+C:\Users\18322\Desktop\C#\Rectangles\obj\Debug\net6.0\Rectangles.csproj.AssemblyReference.cache
+C:\Users\18322\Desktop\C#\Rectangles\obj\Debug\net6.0\Rectangles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18322\Desktop\C#\Rectangles\obj\Debug\net6.0\Rectangles.AssemblyInfoInputs.cache
+C:\Users\18322\Desktop\C#\Rectangles\obj\Debug\net6.0\Rectangles.AssemblyInfo.cs
+C:\Users\18322\Desktop\C#\Rectangles\obj\Debug\net6.0\Rectangles.csproj.CoreCompileInputs.cache
+C:\Users\18322\Desktop\C#\Rectangles\bin\Debug\net6.0\Rectangles.exe
+C:\Users\18322\Desktop\C#\Rectangles\bin\Debug\net6.0\Rectangles.deps.json
+C:\Users\18322\Desktop\C#\Rectangles\bin\Debug\net6.0\Rectangles.runtimeconfig.json
+C:\Users\18322\Desktop\C#\Rectangles\bin\Debug\net6.0\Rectangles.dll
+C:\Users\18322\Desktop\C#\Rectangles\bin\Debug\net6.0\Rectangles.pdb
+C:\Users\18322\Desktop\C#\Rectangles\obj\Debug\net6.0\Rectangles.dll
+C:\Users\18322\Desktop\C#\Rectangles\obj\Debug\net6.0\refint\Rectangles.dll
+C:\Users\18322\Desktop\C#\Rectangles\obj\Debug\net6.0\Rectangles.pdb
+C:\Users\18322\Desktop\C#\Rectangles\obj\Debug\net6.0\Rectangles.genruntimeconfig.cache
+C:\Users\18322\Desktop\C#\Rectangles\obj\Debug\net6.0\ref\Rectangles.dll
